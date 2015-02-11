@@ -12,12 +12,29 @@
 <html>
 
 <head>
-    <title>My Title</title>
+    <title>Melanie Sazegar</title>
+
+    <link rel="stylesheet" type="text/css" href="css/main.css">
 </head>
 
 <body>
 
-<p>This is the first paragraph in the body of your new HTML file! Thank ya Chris!!~</p>
+<div class="page-div" id="home">
+    <?php require_once "home.php"; ?>
+</div>
+
+<div class="page-div" id="work">
+    <?php require_once "work.php"; ?>
+</div>
+
+<div class="page-div" id="about">
+    <?php require_once "about.php"; ?>
+</div>
+
+<div class="page-div" id="contact">
+    <?php require_once "contact.php"; ?>
+</div>
+
 
 </body>
 </html>

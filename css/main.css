@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.page-div {
+    min-height: 500px;
+    width: 100%;
+}
+
+#home {
+    background-image: url("../images/homepage-background.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#work {
+    background-color: orange;
+}
+
+#about {
+    background-color: yellow;
+}
+
+#contact {
+    background-color: green;
+}
+
+.header {
+    font-family: sans-serif;
+    color: white;
+    letter-spacing: 1px;
+    font-size: 36px;
+    width: 300px;
+    margin: 0 auto;
+    padding-top: 75px;
+}
+
+.purple {
+    color: #9f449b;
+}
