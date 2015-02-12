@@ -39,3 +39,32 @@
 .purple {
     color: #9f449b;
 }
+
+.home-text {
+    padding-top: 60px;
+}
+
+.home-text .text, .home-text .title {
+    margin: 0 auto;
+    color: white;
+    font-family: sans-serif;
+}
+
+.home-text .title {
+    font-size: 22px;
+    width: 334px;
+}
+
+.home-text .text {
+    width: 750px;
+    font-size: 14px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.bubble {
+    background: url("../images/bubble.png") no-repeat;
+    width: 125px;
+    height: 125px;
+    background-size: contain;
+}
