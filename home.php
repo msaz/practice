@@ -18,5 +18,22 @@
         Ea mentitum indoctum hendrerit mei, ex nibh veritus eam, vis epicurei scriptorem ea.
     </p>
 
-    <div class="bubble"></div>
+    <div class="bubble-container-center">
+        <div class="bubble"></div>
+        <div class="bubble"></div>
+    </div>
+
+    <div class="bubble-container-left">
+        <div class="bubble"></div>
+        <div class="bubble"></div>
+    </div>
+
+    <div class="bubble-container-right">
+        <div class="bubble"></div>
+        <div class="bubble"></div>
+    </div>
+
+    <div class="scroller">
+        <img src="images/scroller.png"/>
+    </div>
 </div>
