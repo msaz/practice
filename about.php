@@ -6,4 +6,9 @@
  * Time: 5:25 PM
  */
 ?>
-<h1>This is the about page!</h1>
+<div class="about-top">
+
+</div>
+<div class="about-bottom">
+
+</div>
